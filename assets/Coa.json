@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Collisions with Other Vehicles",
+      "types": [
+        "Head-on Collision",
+        "Rear-end Collision",
+        "Side Collision",
+        "Multi-vehicle Collision"
+      ]
+    },
+    {
+      "name": "Collisions with Objects",
+      "types": [
+        "Collision with Animals",
+        "Collision with Stationary Objects (walls, trees, etc)",
+        "Collision with Falling Objects (such as stones, etc)"
+      ]
+    },
+    {
+      "name": "Loss of Control",
+      "types": [
+        "Skidding",
+        "Driver Fault"
+      ]
+    },
+    {
+      "name": "Parked Vehicle Damage",
+      "types": [
+        "Falling Objects",
+        "Vandalism"
+      ]
+    },
+    {
+      "name": "Other",
+      "types": [
+        "Bad Road Conditions (potholes, etc)",
+        "Weather Events (thunderstorm, etc)"
+      ]
+    }
+  ]
+}
